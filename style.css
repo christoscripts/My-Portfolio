@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.ul-items {
+    padding-left: 25px;
+}
+
+.heading-spacing {
+    margin: 10px 0px 10px 0px;
+}
+
+.outer-container {
+    border-bottom: 1px solid black;
+    padding: 10px 0px 10px 0px;
+}
+
+.container {
+    margin: 0px 5px 0px 5px;
+}
+
+/* Header Section */
+
+#profile-img {
+    border: 3px solid black;
+    width: 150px;
+    margin-left: 5px;
+}
+
+header {
+    padding: 10px 0px 5px 0px;
+    display: flex;
+    /* align-items: center; */
+    gap: 20px;
+    border-bottom: 1px solid black;
+
+}
+
+.about-section h1 {
+    text-decoration: underline;
+    margin-bottom: 8px;
+}
+
+.about-section div {
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+/* Education Section */
+table thead {
+    background-color: rgb(175, 174, 174);
+}
+
+table td {
+    padding: 5px;
+}
+
+/* InternShip Section */
+.internship p,ul{
+    margin-bottom: 5px;
+}
