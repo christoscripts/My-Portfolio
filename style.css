@@ -59,3 +59,12 @@ table td {
 .internship p,ul{
     margin-bottom: 5px;
 }
+
+
+.footer-ad {
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: aquamarine;
+}
